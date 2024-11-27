@@ -32,5 +32,11 @@ from PIL import Image # Open an image file with Image.open("input_image.jpg") as
 
 https://github.com/shiftkey/desktop/releases/
 
-4. get database of training data 
+4. get database of training data
+
+
+
+Your site is live at https://lilcisero.github.io/lawfirmsitebuild/
+
+
 
